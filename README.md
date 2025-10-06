@@ -2,7 +2,7 @@
 🧠 Backend Developer<br>
 🎯 Constantly improving my skills and exploring new technologies<br>
 👩🏻‍💻 Currently working with Spring, gRPC, Kubernetes & Azure DevOps <br>
-🌏 Travel & sports enthusiast<br>
+🌏 Travel & sport enthusiast<br>
 🐲 Native Italian speaker & China expert
 
 ## 🌐 You can find more about my background on LinkedIn:
